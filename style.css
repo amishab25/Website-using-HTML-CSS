@@ -27,7 +27,7 @@ body .project2{
 #top{
     width: 100%;
     min-height: 60vh;
-    background-image: url(assets/premium_photo-1706625676808-3f834c96e4d0.avif);
+    background-image: url(premium_photo-1706625676808-3f834c96e4d0.avif);
     background-size: cover;
     background-position: 50% 60%;
     align-items: center;
@@ -52,7 +52,7 @@ body .project2{
 #btwo{
     width: 25%;
     min-height: inherit;
-    background-image: url(assets/photo-1709038459415-8379ce8ae789.avif);
+    background-image: url(photo-1709038459415-8379ce8ae789.avif);
     background-size: cover;
     background-position:center;
 }
@@ -74,7 +74,7 @@ body .project2{
 #bthreebottom{
     width: 49.5vh;
     min-height: 20vh;
-    background-image: url(assets/istockphoto-670060512-170667a.webp);
+    background-image: url(istockphoto-670060512-170667a.webp);
     background-position: right;
     background-size: cover;
 }
@@ -142,7 +142,7 @@ body .project2{
     width: 40px;
     height: 40px;
     margin-top: 25px;
-    background-image: url(assets/photo-1539571696357-5a69c17a67c6.avif);
+    background-image: url(photo-1539571696357-5a69c17a67c6.avif);
     background-size: cover;
     border-radius: 50%;
 }
@@ -151,7 +151,7 @@ body .project2{
     width: 40px;
     height: 40px;
     margin-top: 25px;
-    background-image: url(assets/photo-1560250097-0b93528c311a.avif);
+    background-image: url(photo-1560250097-0b93528c311a.avif);
     background-size: cover;
     border-radius: 50%;
 }
@@ -160,7 +160,7 @@ body .project2{
     margin-top: 25px;
     width: 40px;
     height: 40px;
-    background-image: url(assets/photo-1544717305-2782549b5136.avif);
+    background-image: url(photo-1544717305-2782549b5136.avif);
     background-size: cover;
     border-radius: 50%;
 }
